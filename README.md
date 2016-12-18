@@ -12,4 +12,4 @@
 11. Sort the resulting data set by the subject column and then by the activity column.
 12. Write the results to a file.
 
-##It is assumed that all files constituting the data set are located in a directory called "UCI HAR Dataset" which is located inside the current working directory.
+####P.S: It is assumed that all files constituting the data set are located in a directory called "UCI HAR Dataset" which is located inside the current working directory.
