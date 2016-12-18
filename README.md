@@ -1,5 +1,5 @@
 ##The following steps need to be followed the obtain a tidy data set for the activity recognition data collected using smartphone sensors -
-1. Load the plyr library.
+1. Load the dplyr library.
 2. Load the file "activity_labels.txt" containing the activity labels and corresponding activity names.
 3. Load the file "features.txt" containing the names of all features to be used as column headers.
 4. Load the training data set files: "subject_train.txt", "X_train.txt" and "y_train.txt" containing the Training subject data, Sensor Data collected during training and Training activity labels respectively.
