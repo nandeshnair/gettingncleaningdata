@@ -8,8 +8,8 @@ This file describes all data variables used in the result data set obtained afte
 ###This data was captured at a frequency of 50 Hz. 
 
 ####A. Variables 1 and 2 are
-subject - The subject Id of the person who activiy data was measured. (Range 1 - 30)
-activity - The type of activity performed (Laying, Sitting, Standing, Walking, Walking downstairs, Walking upstairs)
+1. subject - The subject Id of the person who activiy data was measured. (Range 1 - 30)
+2. activity - The type of activity performed (Laying, Sitting, Standing, Walking, Walking downstairs, Walking upstairs)
 
 ####B. The time prefix in the following variables indicates time domain signals. Variables 1-10 have three components each (X,Y,Z). 
 1. timeBodyAccelerometer.mean
