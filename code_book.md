@@ -1,8 +1,8 @@
 
 This file describes all data variables used in the result data set obtained after the analysis.
-mean(): Mean value
-std(): Standard deviation
-meanFreq(): Weighted average of the frequency components to obtain a mean frequency
+* mean(): Mean value
+* std(): Standard deviation
+* meanFreq(): Weighted average of the frequency components to obtain a mean frequency
 
 ####The following variables contain the mean and standard deviation data of the Accelerometer and Gyroscope sensors.
 This data was captured at a frequency of 50 Hz. 
