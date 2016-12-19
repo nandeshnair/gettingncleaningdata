@@ -15,4 +15,4 @@
 ####P.S: 
 1. It is assumed that all files constituting the data set are located in a directory called "UCI HAR Dataset" which is located inside the current working directory.
 
-2. The file "features_info.txt" contains the data variable description.
+2. Additional information an be found the README file of the dataset.
