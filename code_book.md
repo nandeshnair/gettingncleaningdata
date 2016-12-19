@@ -5,7 +5,7 @@ This file describes all data variables used in the result data set obtained afte
 * meanFreq(): Weighted average of the frequency components to obtain a mean frequency
 
 ####The following variables contain the mean and standard deviation data of the Accelerometer and Gyroscope sensors.
-This data was captured at a frequency of 50 Hz. 
+####This data was captured at a frequency of 50 Hz. 
 
 #####A. Variables 1 and 2 are
 subject - The subject Id of the person who activiy data was measured. (Range 1 - 30)
