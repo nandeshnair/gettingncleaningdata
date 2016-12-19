@@ -4,14 +4,14 @@ This file describes all data variables used in the result data set obtained afte
 * std(): Standard deviation
 * meanFreq(): Weighted average of the frequency components to obtain a mean frequency
 
-####The following variables contain the mean and standard deviation data of the Accelerometer and Gyroscope sensors.
-####This data was captured at a frequency of 50 Hz. 
+###The following variables contain the mean and standard deviation data of the Accelerometer and Gyroscope sensors.
+###This data was captured at a frequency of 50 Hz. 
 
-#####A. Variables 1 and 2 are
+####A. Variables 1 and 2 are
 subject - The subject Id of the person who activiy data was measured. (Range 1 - 30)
 activity - The type of activity performed (Laying, Sitting, Standing, Walking, Walking downstairs, Walking upstairs)
 
-#####B. The time prefix in the following variables indicates time domain signals. Variables 1-10 have three components each (X,Y,Z). 
+####B. The time prefix in the following variables indicates time domain signals. Variables 1-10 have three components each (X,Y,Z). 
 1. timeBodyAccelerometer.mean
 2. timeBodyAccelerometer.std
 3. timeGravityAccelerometer.mean
@@ -33,7 +33,7 @@ activity - The type of activity performed (Laying, Sitting, Standing, Walking, W
 19. timeBodyGyroscopeJerkMagnitude.mean
 20. timeBodyGyroscopeJerkMagnitude.std
 
-#####C. The frequency prefix in the following variables indicates frequency domain signals. Variables 1-6 have three components each (X,Y,Z). 
+####C. The frequency prefix in the following variables indicates frequency domain signals. Variables 1-6 have three components each (X,Y,Z). 
 
 1. frequencyBodyAccelerometer.mean
 2. frequencyBodyAccelerometer.std
